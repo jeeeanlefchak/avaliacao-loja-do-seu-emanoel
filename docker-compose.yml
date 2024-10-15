@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  empacotamentoapi:
+    build:
+      context: .
+      dockerfile: EmpacotamentoAPI/Dockerfile
+    ports:
+      - "2225:2225"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:2225
+    networks:
+      - apinetwork
+
+  pedidosapi:
+    build:
+      context: .
+      dockerfile: PedidosAPI/Dockerfile
+    ports:
+      - "2226:2226"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:2226
+    networks:
+      - apinetwork
+
+networks:
+  apinetwork:
+    driver: bridge
