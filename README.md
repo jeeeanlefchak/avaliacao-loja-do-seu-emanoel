@@ -9,3 +9,7 @@ no docker esta configurado para rodar na porta 2225 e o outro projeto na porta 2
 
 # Swagger
 http://localhost:2225/swagger/index.html
+
+Case precise logar ou testar a autenticação
+  "username": "usuario",
+  "password": "senha123"

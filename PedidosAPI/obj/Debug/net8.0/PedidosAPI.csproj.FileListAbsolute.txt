@@ -17,6 +17,7 @@ E:\Projects\loja-seu-emanoel\PedidosAPI\obj\Debug\net8.0\PedidosAPI.AssemblyInfo
 E:\Projects\loja-seu-emanoel\PedidosAPI\obj\Debug\net8.0\PedidosAPI.csproj.CoreCompileInputs.cache
 E:\Projects\loja-seu-emanoel\PedidosAPI\obj\Debug\net8.0\PedidosAPI.MvcApplicationPartsAssemblyInfo.cs
 E:\Projects\loja-seu-emanoel\PedidosAPI\obj\Debug\net8.0\PedidosAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\loja-seu-emanoel\PedidosAPI\obj\Debug\net8.0\PedidosAPI.sourcelink.json
 E:\Projects\loja-seu-emanoel\PedidosAPI\obj\Debug\net8.0\staticwebassets.build.json
 E:\Projects\loja-seu-emanoel\PedidosAPI\obj\Debug\net8.0\staticwebassets.development.json
 E:\Projects\loja-seu-emanoel\PedidosAPI\obj\Debug\net8.0\staticwebassets\msbuild.PedidosAPI.Microsoft.AspNetCore.StaticWebAssets.props
